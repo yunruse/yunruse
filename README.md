@@ -1,7 +1,5 @@
 # Hey hi howdy!
 
-I'm a physics undergrad, developer and novice author. I've made front-end code for local governments and critical UK security companies, and I have a lot of cute projects under my belt.
+I'm an MPhys Computational Physics undergrad, developer and novice author. My strengths are front-end code, design, data analysis and data structures. I've a good bit of experience in the public sector of the UK, but I'm very much interested in personal projects too, when time lets me! But it's a little occupied by study and my summer internship at a data security company :)
 
-I'm currently a student at the University of Edinburgh, and a summer intern at a data security company, so my projects might be a bit slow to update. And if they're not, tell me to get back to studying! :)
-
-Most of the time I post new projects (or [gists](https://gist.github.com/yunruse) on my [blog](https://yunru.se); there you might find other tidbits of things I've made. Check it out!
+I post things sporadically to my [blog](https://yunru.se) and to [gists](https://gist.github.com/yunruse), too. Check them out!
