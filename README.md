@@ -1,5 +1,11 @@
-# Hey hi howdy!
+## *Hey hi howdy!*
 
-I'm an MPhys Computational Physics undergrad, developer and novice author. My strengths are front-end code, design, data analysis and data structures. I've a good bit of experience in the public sector of the UK, but I'm very much interested in personal projects too, when time lets me! But it's a little occupied by study and my summer internship at a data security company :)
+I’m a local physics/computer witch. I enjoy weird data structures, space, and writing queer fiction. Sometimes all at once!
 
-I post things sporadically to my [blog](https://yunru.se) and to [gists](https://gist.github.com/yunruse), too. Check them out!
+🏳️‍🌈🏳️‍⚧️🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇪🇺🇺🇳♍️
+
+If you’re looking for me online you can find me on
+
+- [GitHub](https://github.com/yunruse) (I also post [Gists](https://gist.github.com/yunruse))
+- [LinkedIn](https://www.linkedin.com/in/yunruse)
+- [Twitter](http://twitter.com/yunruse)
