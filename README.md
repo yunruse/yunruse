@@ -1,11 +1,8 @@
-## *Hey hi howdy!*
+## *Hey hi howdy!* ✨
 
-I’m a local physics/computer witch. I enjoy weird data structures, space, and writing queer fiction. Sometimes all at once!
+Please see [my website](https://yunru.se) if you want more info about me because I get so busy writing commit messages I forget I have a whole GitHub profile too.
 
-🏳️‍🌈🏳️‍⚧️🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇪🇺🇺🇳♍️
+My main projects are 
 
-If you’re looking for me online you can find me on
-
-- [GitHub](https://github.com/yunruse) (I also post [Gists](https://gist.github.com/yunruse))
-- [LinkedIn](https://www.linkedin.com/in/yunruse)
-- [Twitter](http://twitter.com/yunruse)
+- **Noether**, which I am presently (Feb 2023) working on at least a few hours per weekend,
+- **pxdlib**, which I usually work on an ad-hoc as-needed basis
