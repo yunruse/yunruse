@@ -1,6 +1,8 @@
+<img src="https://yunru.se/static/zune.png" width="50%" />
+
 ## *Hey hi howdy!* ✨
 
-Please see [my website](https://yunru.se) if you want more info about me because I get so busy writing commit messages I forget I have a whole GitHub profile too.
+Please see [my website](https://yunru.se) for more.
 
 My main projects are 
 
