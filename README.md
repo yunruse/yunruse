@@ -1,8 +1,6 @@
-<img src="https://yunru.se/static/zune.png" width="50%" />
+<a href="https://yunru.se"><img src="https://yunru.se/static/zune.png" width="50%" /></a>
 
-## *Hey hi howdy!* ✨
-
-Please see [my website](https://yunru.se) for more.
+## <a href="https://yunru.se/"><i>Hey hi howdy!</i> ✨</a>
 
 My main projects are 
 
