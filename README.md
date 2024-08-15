@@ -1,8 +1,9 @@
-<a href="https://yunru.se"><img src="https://yunru.se/static/zune.png" width="50%" /></a>
+Yo! ✨
 
-## <a href="https://yunru.se/"><i>Hey hi howdy!</i> ✨</a>
+Data witch, regex lover, serious aspiring novelist, serial project creator.
 
-My main projects are 
+You can `pip install` some of my PyPI packages: [`battery`](https://pypi.org/project/battery/), [`noether`](https://pypi.org/project/battery/) or [`pxdlib`](https://pypi.org/project/pxdlib/).
 
-- **Noether**, which I am presently (Feb 2023) working on at least a few hours per weekend,
-- **pxdlib**, which I usually work on an ad-hoc as-needed basis
+If you're interested in anything please do leave an issue: the feedback will motivate me to return to tinker with a project.
+
+Progressively typed code is pretty rad, `nano` is adorable, and you should always own more plants.
