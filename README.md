@@ -1,4 +1,4 @@
-Yo! ✨
+Hey hi howdy! ✨
 
 Data witch, regex lover, serious aspiring novelist, serial project creator.
 
